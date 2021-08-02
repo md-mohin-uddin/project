@@ -157,4 +157,5 @@ footer{
     text-decoration: none;
     margin-top: 20px;
     display: flex;
+    display: inline-block;
 }
